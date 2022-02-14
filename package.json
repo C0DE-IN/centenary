@@ -1,0 +1,24 @@
+{
+  "name": "centenary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noiissyboy/centenary.git"
+  },
+  "keywords": [
+    "iisc",
+    "biochemistry",
+    "centenery"
+  ],
+  "author": "Vigneshwaran Renganathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noiissyboy/centenary/issues"
+  },
+  "homepage": "https://github.com/noiissyboy/centenary#readme"
+}
